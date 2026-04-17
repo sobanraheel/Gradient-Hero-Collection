@@ -14,6 +14,9 @@ export const HeroThree: React.FC = () => {
             <span className="italic text-gray-800">THINGS</span> <br />
             BEAUTIFUL
           </h1>
+          <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-600 mb-10 leading-relaxed">
+          This is hero 3
+        </p>
           <p className="text-gray-600 text-lg max-w-md mb-12 border-l-4 border-orange-500 pl-6 py-2">
             We are a creative collective building brands that stand the test of time and pixels.
           </p>
