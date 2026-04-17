@@ -20,6 +20,9 @@ export const HeroTwo: React.FC = () => {
               Intelligence
             </span>
           </h1>
+          <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-600 mb-10 leading-relaxed">
+          This is hero 2
+        </p>
           <p className="text-gray-400 text-xl max-w-lg leading-relaxed">
             Secure your digital assets with our next-generation blockchain architecture. Built for speed, security, and absolute privacy.
           </p>
