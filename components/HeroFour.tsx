@@ -16,6 +16,9 @@ export const HeroFour: React.FC = () => {
           <span className="font-bold text-gray-100">Global Enterprises</span>
         </h1>
         <div className="h-px w-24 bg-gradient-to-r from-transparent via-gray-500 to-transparent mx-auto"></div>
+        <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-600 mb-10 leading-relaxed">
+          This is hero 4
+        </p>
         <p className="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
           The unified platform for secure infrastructure, data sovereignty, and predictive analytics at scale.
         </p>
