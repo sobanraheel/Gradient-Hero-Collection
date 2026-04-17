@@ -19,6 +19,9 @@ export const HeroFive: React.FC = () => {
             Experience the <br />
             <span className="italic font-light text-emerald-400">Flow State</span>
           </h1>
+          <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-600 mb-10 leading-relaxed">
+          This is hero 5
+        </p>
           <p className="text-indigo-200 text-lg mb-10 max-w-lg">
             Connect your creative tools into a single, seamless environment. Automation that feels like magic.
           </p>
