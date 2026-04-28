@@ -16,7 +16,7 @@ export const HeroOne: React.FC = () => {
           Introducing to the Future
         </span>
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-tight text-gray-900 mb-8 leading-[1.1]">
-          Build your next <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">big idea</span> faster.
+          Build your next <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">idea</span> faster.
         </h1>
         <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-600 mb-10 leading-relaxed">
           The ultimate foundation for modern web applications. Scale infinitely with a UI that adapts to your growth.
