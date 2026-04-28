@@ -13,7 +13,7 @@ export const HeroOne: React.FC = () => {
 
       <div className="relative z-10 max-w-5xl px-6 text-center">
         <span className="inline-block px-4 py-1.5 mb-6 text-sm font-semibold tracking-wide text-indigo-600 uppercase bg-indigo-50 rounded-full border border-indigo-100">
-          Introducing the Future
+          Introducing to the Future
         </span>
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-tight text-gray-900 mb-8 leading-[1.1]">
           Build your next <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">big idea</span> faster.
