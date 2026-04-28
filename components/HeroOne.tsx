@@ -19,9 +19,6 @@ export const HeroOne: React.FC = () => {
           Build your next <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">big idea</span> faster.
         </h1>
         <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-600 mb-10 leading-relaxed">
-          This is hero 1
-        </p>
-        <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-600 mb-10 leading-relaxed">
           The ultimate foundation for modern web applications. Scale infinitely with a UI that adapts to your growth.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
